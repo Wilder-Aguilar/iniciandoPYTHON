@@ -5,3 +5,8 @@ d = (a + b) * c
 imprimir = True
 if imprimir:
  print(x, d)
+
+"""
+Esto es un comentario
+en varias lineas
+"""
