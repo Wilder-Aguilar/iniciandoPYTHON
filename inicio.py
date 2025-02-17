@@ -10,3 +10,19 @@ if imprimir:
 Esto es un comentario
 en varias lineas
 """
+
+#Segundo codigo en PYTHON
+if True:
+    print("True")
+
+"""
+Tercer codigo en PYTHON
+def funcion(a, b, c):
+ return a+b+c
+d = funcion(10,
+23,
+3)
+"""
+
+print ('Hola Mundo!')
+'Hola Mundo!'
