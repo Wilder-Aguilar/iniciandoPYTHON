@@ -53,7 +53,7 @@ else:
 
 #OBJETOS MUTABLES E IMMUTABLES
 # Obtener la dirección de memoria de una variable
-a = 65
+a = 56
 print("La dirección de memoria es" , id(a))
 # Obtener la dirección de memoria de una variable que apunta a otra
 miNumero = 65
