@@ -20,3 +20,20 @@ while bool (a):
         continue
     print (a, end=" ")
 print ('\nFuera del bucle')
+
+#PASS
+a=5
+while a:
+    pass
+
+a=13
+b= a//2
+
+while b > 1:
+    if a % b == 0:
+        print ('{b} es factor de'.format(b,a))
+        break
+    b -= 1
+else:
+    print ('{}es primo'.format(a))
+print ('\nFuera del bucle')
